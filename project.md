@@ -1,1 +1,1 @@
-This is a test project, so welcome to my GitHub
+This is a test project, so welcome to my GitHub.
